@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tourism Demand Forecasting — Sri Lanka
 **Student ID:** 258693L
 
@@ -26,3 +27,7 @@ search intent leads actual arrivals by 1-2 months.
 - `graphs/` — all EDA and model evaluation plots
 - `notebooks/` — Colab notebooks
 - `app.py` — Streamlit web application
+=======
+# tourism-forecasting-258693L
+ML-driven tourism demand forecasting and decision dashboard for Sri Lanka
+>>>>>>> 9f2073682fed209f046f4da95fbc435fc2bfbcf6
