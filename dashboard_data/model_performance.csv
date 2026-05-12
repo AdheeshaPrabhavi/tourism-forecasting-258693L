@@ -1,0 +1,2 @@
+model,test_MAE,test_RMSE,test_MAPE,n_test_months,last_updated
+Random Forest,37585,47128,17.89,28,2026-05-10

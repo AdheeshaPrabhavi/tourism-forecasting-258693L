@@ -1,0 +1,2 @@
+alert_level,alert_color,pct_vs_seasonal,predicted,seasonal_expected,disruption_score,forecast_month
+NORMAL,Green,114.6,137872,64234,3.0,June 2026
