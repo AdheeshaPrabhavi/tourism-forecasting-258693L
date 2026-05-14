@@ -16,7 +16,7 @@ warnings.filterwarnings('ignore')
 # ── PAGE CONFIG ───────────────────────────────────────────────────────
 st.set_page_config(
     page_title="Sri Lanka Tourism Forecaster",
-    page_icon="🌴",
+    page_icon="🌴🇱🇰",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -137,7 +137,7 @@ with st.sidebar:
     st.image("https://upload.wikimedia.org/wikipedia/commons/"
              "thumb/1/11/Flag_of_Sri_Lanka.svg/320px-Flag_of_Sri_Lanka.svg.png",
              width=80)
-    st.markdown("## 🌴 Tourism Forecaster")
+    st.markdown("##  Tourism Forecaster")
     st.markdown("**Sri Lanka — Real-Time Demand Prediction**")
     st.divider()
 
