@@ -16,7 +16,7 @@ warnings.filterwarnings('ignore')
 # ── PAGE CONFIG ───────────────────────────────────────────────────────
 st.set_page_config(
     page_title="Sri Lanka Tourism Forecaster",
-    page_icon="🌴🇱🇰",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -181,7 +181,7 @@ with st.sidebar:
 
 # ── HEADER ────────────────────────────────────────────────────────────
 st.markdown(
-    '<div class="main-title">🌴 Sri Lanka Tourism Demand Forecasting</div>',
+    '<div class="main-title">Sri Lanka Tourism Demand Forecasting</div>',
     unsafe_allow_html=True)
 st.markdown(
     '<div class="subtitle">Machine Learning-Driven Early Warning System | '
