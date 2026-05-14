@@ -1,2 +1,2 @@
 forecast_month,forecast_date,predicted_rf,ci_lower_80,ci_upper_80,ci_lower_90,ci_upper_90,seasonal_expected,pct_vs_seasonal,generated_at
-June 2026,2026-06-01,137872,73660,218633,49580,229023,117366,114.6,2026-05-10 18:47
+June 2026,2026-06-01,137872,73660,218633,49580,229023,64234,114.6,2026-05-10 18:47
